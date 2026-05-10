@@ -10,7 +10,7 @@
 * **OUI Lookups for MACs**
 * **Discovered services logging**
 * **URL Discovery (WWW/XML)**
-* **CSV export of all captured data**
+* **CSV export of all captured data (outputs 'SSDP_LOG.csv' in local directory**
 
 ---
 ## Quick install notes:
