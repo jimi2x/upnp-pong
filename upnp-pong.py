@@ -8,6 +8,15 @@ import sys
 import time
 from datetime import datetime
 
+###################################################################################
+#  upnp-pong.py ---> Instructions & How To:                                       #
+#                                                                                 #
+#   [+] Discover uPNP and SSDP hosts and services:                                #
+#        sudo python3 upnp-pong.py                                                #
+#                                                                                 #
+###################################################################################
+
+
 print ("\n")
 print ("▄▄ ▄▄ █████▄ ███  ██ █████▄   █████▄  ▄▄▄  ▄▄  ▄▄  ▄▄▄▄ ") 
 print ("██ ██ ██▄▄█▀ ██ ▀▄██ ██▄▄█▀   ██▄▄█▀ ██▀██ ███▄██ ██ ▄▄ ")
